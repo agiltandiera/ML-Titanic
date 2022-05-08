@@ -21,6 +21,14 @@ The dataset is about the titanic passengers consists of 14 columns (attributes/f
 5-Dimention reduction using PCA
 
 6-Classification using Desicion Tree
+
+## Conclution and suggestion
+
+There are still things that can be done, such as classification
+
+## Youtube
+
+For detail explanation, go check it https://youtu.be/dg9fxw0m0Pw
 <br><br>
 
 Enjoy it! :purple_heart::purple_heart::purple_heart:
