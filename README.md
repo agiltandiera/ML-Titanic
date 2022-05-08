@@ -1,8 +1,8 @@
 # Machine Learning with Python :snake:
 
-## The language
+## The language and platform
 
-In this project I used Python, in version 3.6.8.
+In this project I used Python and jupyter notebook
 
 ## The dataset
 
